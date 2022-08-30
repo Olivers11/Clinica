@@ -1,0 +1,79 @@
+.btn{
+    background: #23A8F2;
+    color: white;
+    border-radius: 35px 35px;
+}
+
+.form-control{
+    border-radius: 25px 25px;
+}
+
+.form-group label{
+    color: #23A8F2;
+    font-weight: bold;
+}
+
+
+.form{
+  background: black;
+}
+
+.btn:hover{
+    background: none;
+    color: #23A8F2;
+    border: solid #23A8F2 2px;
+    font-weight: bold;
+}
+
+.second-card{
+  border: 1px solid white;
+}
+
+.schedule{
+    background: #23A8F2;
+    /* color: white; */
+    color: #23A8F2;
+    background: white;
+}
+
+
+
+.sub-title{
+    margin-top: 40px;
+    /* color: #23A8F2; */
+    color: white;
+}
+
+
+.text{
+    /* color: #23A8F2; */
+  color: white;
+}
+
+.date-container{
+  background: #23A8F2;
+}
+
+
+#cards-container{
+  margin-top: 10px !important;
+}
+
+.section-title{
+  padding-top: 50px;
+  padding-bottom: 50px;
+  font-size: 260%;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
