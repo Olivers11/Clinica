@@ -1,16 +1,30 @@
-.btn{
+@import url('https://fonts.googleapis.com/css2?family=Lobster&display=swap');
+
+
+#btn-send:hover{
     background: #23A8F2;
     color: white;
     border-radius: 35px 35px;
+    transition: .40s;
+}
+
+#btn-send{
+    transition: .40s;
+    border-radius: 35px 35px;
+    border: 2px solid #23A8F2;
+    color: #23A8F2;
+    font-weight: bold;
 }
 
 .form-control{
     border-radius: 25px 25px;
 }
 
-.form-group label{
-    color: #23A8F2;
-    font-weight: bold;
+
+#label{
+  text-align: left !important;
+  color: #23A8F2;
+  font-weight: bold;
 }
 
 
@@ -18,16 +32,8 @@
   background: black;
 }
 
-.btn:hover{
-    background: none;
-    color: #23A8F2;
-    border: solid #23A8F2 2px;
-    font-weight: bold;
-}
 
-.second-card{
-  border: 1px solid white;
-}
+
 
 .schedule{
     background: #23A8F2;
@@ -60,14 +66,18 @@
 }
 
 .section-title{
+  font-family: Lobster;
   padding-top: 50px;
   padding-bottom: 50px;
-  font-size: 260%;
+  font-size: 290%;
 }
 
 
 
-
+.second-card{
+  border-left: solid 2px white;
+  border-right: solid 2px white;
+}
 
 
 

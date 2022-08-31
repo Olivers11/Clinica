@@ -1,3 +1,6 @@
+@import url('https://fonts.googleapis.com/css2?family=Lobster&display=swap');
+
+
 .img-container{
     display: block;
     top: 0;
@@ -13,6 +16,7 @@
 
 #title-name{
   color: #23A8F2;
+  font-family: Lobster;
 }
 
 .title{
