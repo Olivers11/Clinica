@@ -22,7 +22,7 @@ export default function Cita() {
 
 
     return (
-        <div className='date-container'>
+        <section className='date-container' id="cita">
 	    <h2 className="text-white section-title">Hacer Cita</h2>	
             <div className="container"  id="cards-container">
                 <div className="row">
@@ -82,7 +82,7 @@ export default function Cita() {
                     </div>
                 </div>
             </div>
-        </div>
+        </section>
     )
 }
 
