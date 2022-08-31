@@ -1,6 +1,7 @@
 import './../styles/main.css';
 import Separator from './Separator';
 import Cita from './Cita';
+import Footer from './Footer';
 
 export default function Main(){
   return(
@@ -11,6 +12,7 @@ export default function Main(){
 	<Separator  />
       </div>
       <Cita />
+      <Footer />
 
     </>
   );

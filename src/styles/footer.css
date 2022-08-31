@@ -1,0 +1,29 @@
+.footer{
+  background: black;
+  height: 30px !important;
+  position: absolute;
+  bottom: 0px;
+  bottom: 0px;
+}
+
+
+.foot{
+  background: #B9D7F0;
+  color: #0F74C2;
+  font-weight: bold;
+}
+
+.paragraph{
+  text-align:justify;
+}
+
+.text-uppercase{
+  color: #23A8F2;
+  font-weight: bold;
+}
+
+
+
+
+
+
